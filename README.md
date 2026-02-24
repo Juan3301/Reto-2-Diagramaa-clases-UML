@@ -4,6 +4,9 @@ Elija un problema de la vida real (sistema de gestión de biblioteca, negocio de
 
 Me basé en un sistema de liga de futbol en general de cualquier pais del mundo, representado en diagrama UML, utilizando Mermaid.
 
+## Diagrama de clases
+
+```mermaid
 classDiagram
 
     Persona <|-- Jugador
